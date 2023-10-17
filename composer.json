@@ -1,0 +1,17 @@
+
+{
+    "name": "jefer/fast-route",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jefer\\FastRoute\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "imjef",
+            "email": "jefersonrrsilva23@gmail.com"
+        }
+    ],
+    "require": {}
+}
